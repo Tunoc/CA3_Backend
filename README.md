@@ -4,7 +4,7 @@
 ## Frontend
 This is the frontend that is supposed to be used with this backend.
 https://github.com/Gold-ish/StartCode_CA3_Frontend
-  
+    
 #### Members:
 - Allan Bo Simonses
 - Nina Lisakowski

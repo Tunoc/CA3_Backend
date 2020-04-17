@@ -4,7 +4,7 @@ import java.util.Properties;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-public class EMF_Creator {
+public class EMF_Creator {   
 
     public enum Strategy {
         NONE {
